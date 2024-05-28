@@ -12,10 +12,10 @@ This repository contains code to train a transformer model for translating Germa
    cd german-to-english-translation
 
 ## Install the required packages:
-
 ```bash
 Copy code
 pip install -r requirements.txt
+
 ## Download the necessary spaCy language models:
 
 ```bash
