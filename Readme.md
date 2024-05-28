@@ -82,5 +82,4 @@ This will open a web browser with the translation interface where you can input 
    torchtext
    spaCy
    Streamlit
-   Dataset: Multi30k
    
