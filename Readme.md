@@ -11,18 +11,19 @@ This repository contains code to train a transformer model for translating Germa
    git clone https://github.com/yourusername/german-to-english-translation.git
    cd german-to-english-translation
 
-##Install the required packages:
+## Install the required packages:
 
 ```bash
 Copy code
 pip install -r requirements.txt
-##Download the necessary spaCy language models:
+## Download the necessary spaCy language models:
 
 ```bash
 Copy code
 python -m spacy download de_core_news_sm
 python -m spacy download en_core_web_sm
-##Training the Model
+
+## Training the Model
 To train the model, run:
 
 ```bash
@@ -72,10 +73,10 @@ german-to-english-translation/
     ├── __init__.py
     └── utils.py
 
-##License
+##  License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Acknowledgements
+##  Acknowledgements
 PyTorch
 torchtext
 spaCy
