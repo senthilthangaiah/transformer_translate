@@ -13,13 +13,13 @@ This repository contains code to train a transformer model for translating Germa
 
 ## Install the required packages:
    ```bash
-   Copy code
+   
    pip install -r requirements.txt
    ```
 ## Download the necessary spaCy language models:
 
    ```bash
-   Copy code
+   
    python -m spacy download de_core_news_sm
    python -m spacy download en_core_web_sm
    ```
@@ -27,7 +27,7 @@ This repository contains code to train a transformer model for translating Germa
 To train the model, run:
 
    ```bash
-   Copy code
+   
    python train.py
    ```
 
@@ -37,7 +37,7 @@ Ensure you have the dataset in the data/ directory in the appropriate format. Th
 To start the Streamlit app, run:
 
    ```bash
-   Copy code
+   
    streamlit run translate_app.py
    ```
 This will open a web browser with the translation interface where you can input German sentences and get English translations.
@@ -54,7 +54,7 @@ This will open a web browser with the translation interface where you can input 
 ## Directory Structure
 
    ```css
-   Copy code
+   
    german-to-english-translation/
    │
    ├── README.md
