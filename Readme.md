@@ -8,8 +8,8 @@ This repository contains code to train a transformer model for translating Germa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/german-to-english-translation.git
-   cd german-to-english-translation
+   git clone https://github.com/senthilthangaiah/transformer_translate.git
+   cd transformer_translate
 
 ## Install the required packages:
    ```bash
