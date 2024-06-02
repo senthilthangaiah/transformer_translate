@@ -55,7 +55,7 @@ This will open a web browser with the translation interface where you can input 
 
    ```css
    
-   german-to-english-translation/
+   transformer-translate/
    │
    ├── README.md
    ├── requirements.txt
